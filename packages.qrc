@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/packages">
+        <file>packages/vlc.deb</file>
+        <file>packages/curl.deb</file>
+        <file>packages/postgresql.deb</file>
+    </qresource>
+</RCC>
